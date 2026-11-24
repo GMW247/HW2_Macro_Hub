@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "settings": { "gameExe": "notepad.exe" },
+  "bindings": [
+    { "trigger": ["F8"], "stratagem": "Reinforce" },
+    { "trigger": ["F1", "F2"], "stratagem": "Eagle Airstrike" },
+    { "trigger": ["F4", "F5", "F6"], "stratagem": "Orbital Precision Strike" }
+  ]
+}

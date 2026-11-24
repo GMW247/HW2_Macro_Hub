@@ -1,0 +1,121 @@
+name,code,permit,category,cooldown,cost,unlock
+Orbital Confetti,RDDUUDDUU,Offensive Permit,Orbital Strikes,80s,N/A,N/A
+Orbital Precision Strike,RRU,Offensive Permit,Orbital Strikes,80s,Free,1
+Orbital Gatling Barrage,RDLUU,Offensive Permit,Orbital Strikes,70s,1500 Requisition Slips,1
+Orbital Gas Strike,RRDR,Offensive Permit,Orbital Strikes,75s,4000 Requisition Slips,1
+Orbital 120mm HE Barrage,RRDLRD,Offensive Permit,Orbital Strikes,180s,4000 Requisition Slips,5
+Orbital Airburst Strike,RRR,Offensive Permit,Orbital Strikes,90s,4000 Requisition Slips,5
+Orbital Smoke Strike,RRDU,Offensive Permit,Orbital Strikes,75s,4000 Requisition Slips,8
+Orbital EMS Strike,RRLD,Offensive Permit,Orbital Strikes,75s,6000 Requisition Slips,5
+Orbital 380mm HE Barrage,RDUULDD,Offensive Permit,Orbital Strikes,240s,7500 Requisition Slips,8
+Orbital Walking Barrage,RDRDRD,Offensive Permit,Orbital Strikes,240s,7500 Requisition Slips,10
+Orbital Laser,RDURD,Offensive Permit,Orbital Strikes,300s,10000 Requisition Slips,15
+Orbital Napalm Barrage,RRDLRU,Offensive Permit,Orbital Strikes,240s,10000 Requisition Slips,18
+Orbital Railcannon Strike,RUDDR,Offensive Permit,Orbital Strikes,180s,10000 Requisition Slips,20
+Eagle Fly By,UDDUUDDUU,Offensive Permit,Eagle Strikes,Unknown,N/A,N/A
+Eagle Gas Airstrike,URLR,Offensive Permit,Eagle Strikes,15s,N/A,N/A
+Eagle Strafing Run,URR,Offensive Permit,Eagle Strikes,15s,1500 Requisition Slips,1
+Eagle Airstrike,URDR,Offensive Permit,Eagle Strikes,15s,4000 Requisition Slips,1
+Eagle Cluster Bomb,URDDR,Offensive Permit,Eagle Strikes,15s,4000 Requisition Slips,3
+Eagle Smoke Strike,URUD,Offensive Permit,Eagle Strikes,15s,4000 Requisition Slips,8
+Eagle Napalm Airstrike,URDU,Offensive Permit,Eagle Strikes,15s,5000 Requisition Slips,5
+Eagle 110mm Rocket Pods,URUL,Offensive Permit,Eagle Strikes,15s,7500 Requisition Slips,10
+Eagle 500kg Bomb,URDDD,Offensive Permit,Eagle Strikes,15s,10000 Requisition Slips,15
+MG-43 Machine Gun,DLDUR,Supply Permit,Support Weapons,480s,Free,1
+EAT-17 Expendable Anti-Tank,DDLUR,Supply Permit,Support Weapons,70s,3000 Requisition Slips,3
+M-105 Stalwart,DLDUUL,Supply Permit,Support Weapons,480s,3500 Requisition Slips,1
+LAS-98 Laser Cannon,DLDUL,Supply Permit,Support Weapons,480s,4000 Requisition Slips,5
+APW-1 Anti-Materiel Rifle,DLRUD,Supply Permit,Support Weapons,480s,5000 Requisition Slips,1
+GR-8 Recoilless Rifle,DLRRL,Supply Permit,Support Weapons,480s,6000 Requisition Slips,5
+GL-21 Grenade Launcher,DLULD,Supply Permit,Support Weapons,480s,6000 Requisition Slips,5
+FLAM-40 Flamethrower,DLUDU,Supply Permit,Support Weapons,480s,6000 Requisition Slips,10
+MG-206 Heavy Machine Gun,DLUDD,Supply Permit,Support Weapons,480s,6000 Requisition Slips,12
+AC-8 Autocannon,DLDUUR,Supply Permit,Support Weapons,480s,7000 Requisition Slips,10
+ARC-3 Arc Thrower,DRDULL,Supply Permit,Support Weapons,480s,7000 Requisition Slips,15
+LAS-99 Quasar Cannon,DDULR,Supply Permit,Support Weapons,480s,7500 Requisition Slips,18
+RL-77 Airburst Rocket Launcher,DUULR,Supply Permit,Support Weapons,480s,8000 Requisition Slips,15
+MLS-4X Commando,DLUDR,Supply Permit,Support Weapons,120s,8000 Requisition Slips,15
+FAF-14 Spear,DDUDD,Supply Permit,Support Weapons,480s,9000 Requisition Slips,20
+RS-422 Railgun,DRDULR,Supply Permit,Support Weapons,480s,10000 Requisition Slips,20
+StA-X3 W.A.S.P. Launcher,DDUDR,Supply Permit,Support Weapons,480s,12000 Requisition Slips,20
+AMW-20 Apex,DLLUDL,Supply Permit,Support Weapons,480s,50 Medals,N/A
+CQC-20 Breaching Hammer,DLRLU,Supply Permit,Support Weapons,480s,75 Medals,N/A
+MGX-42 Bullet Storm,DLDRUL,Supply Permit,Support Weapons,70s,75 Medals,N/A
+PLAS-45 Epoch,DLULR,Supply Permit,Support Weapons,480s,75 Medals,N/A
+S-11 Speargun,DRDLUR,Supply Permit,Support Weapons,480s,85 Medals,N/A
+EAT-411 Leveller,DDLUD,Supply Permit,Support Weapons,140s,85 Medals,N/A
+EAT-700 Expendable Napalm,DDLUL,Supply Permit,Support Weapons,140s,85 Medals,N/A
+CQC-9 Defoliation Tool,DLRRD,Supply Permit,Support Weapons,480s,85 Medals,N/A
+GL-52 De-Escalator,DRULR,Supply Permit,Support Weapons,480s,85 Medals,N/A
+TX-41 Sterilizer,DLUDL,Supply Permit,Support Weapons,480s,85 Medals,N/A
+B/MD C4 Pack,DRUURU,Supply Permit,Support Weapons,480s,110 Medals,N/A
+MS-11 Solo Silo,DURDD,Supply Permit,Support Weapons,180s,110 Medals,N/A
+B/FLAM-80 Cremator,DDRDUU,Supply Permit,Support Weapons,480s,110 Medals,N/A
+CQC-1 One True Flag,DLRRU,Supply Permit,Support Weapons,480s,110 Medals,N/A
+GL-28 Belt-Fed Grenade Launcher,DLULUU,Supply Permit,Support Weapons,480s,110 Medals,N/A
+M-1000 Maxigun,DLRDUU,Supply Permit,Support Weapons,480s,110 Medals,N/A
+LAS-44 Nova,DLRDD,Supply Permit,Support Weapons,480s,110 Medals,N/A
+40-K Meltagun,DLULLD,Supply Permit,Support Weapons,480s,110 Medals,N/A
+B-1 Supply Pack,DLDUUD,Supply Permit,Backpacks,480s,4000 Requisition Slips,1
+LIFT-850 Jump Pack,DUUDU,Supply Permit,Backpacks,480s,6000 Requisition Slips,8
+SH-20 Ballistic Shield Backpack,DLDDUL,Supply Permit,Backpacks,240s,6000 Requisition Slips,12
+AX/AR-23 Guard Dog,DULURD,Supply Permit,Backpacks,480s,7500 Requisition Slips,10
+AX/LAS-5 Rover,DULURR,Supply Permit,Backpacks,480s,7500 Requisition Slips,10
+SH-32 Shield Generator Pack,DULRLR,Supply Permit,Backpacks,480s,10000 Requisition Slips,20
+SH-51 Directional Shield,DULRUU,Supply Permit,Backpacks,300s,75 Medals,N/A
+AX/FLAM-75 Hot Dog,DULULL,Supply Permit,Backpacks,480s,75 Medals,N/A
+B-100 Portable Hellbomb,DRUUU,Supply Permit,Backpacks,300s,110 Medals,N/A
+AX/ARC-3 K-9,DULURL,Supply Permit,Backpacks,480s,110 Medals,N/A
+LIFT-860 Hover Pack,DUUDLR,Supply Permit,Backpacks,480s,110 Medals,N/A
+AX/TX-13 Dog Breath,DULURU,Supply Permit,Backpacks,480s,110 Medals,N/A
+LIFT-182 Warp Pack,DLRDLR,Supply Permit,Backpacks,480s,110 Medals,N/A
+M-104 Incinerator FRV,LDRLDUU,Supply Permit,Vehicles,480s,N/A,N/A
+TD-110 Maelstrom,LDRDLDULR,Supply Permit,Vehicles,780s,N/A,N/A
+EXO-49 Emancipator Exosuit,LDRULDU,Supply Permit,Vehicles,420s,20000 Requisition Slips,25
+EXO-45 Patriot Exosuit,LDRULDD,Supply Permit,Vehicles,420s,20000 Requisition Slips,25
+M-103 Supply FRV,LDLLDUR,Supply Permit,Vehicles,480s,25000 Requisition Slips,1
+M-102 Gunner FRV,LDRDRDU,Supply Permit,Vehicles,480s,25000 Requisition Slips,25
+TD-220 Bastion MK XVI,LDRDLDUDU,Supply Permit,Vehicles,780s,35000 Requisition Slips,30
+EXO-55 Breakthrough Exosuit,LDRLRDU,Supply Permit,Vehicles,420s,50 Medals,N/A
+EXO-51 Lumberer Exosuit,LDRURLU,Supply Permit,Vehicles,420s,50 Medals,N/A
+A/MG-43 Machine Gun Sentry,DURRU,Defensive Permit,Sentries,90s,1500 Requisition Slips,1
+A/G-16 Gatling Sentry,DURL,Defensive Permit,Sentries,150s,4000 Requisition Slips,5
+A/AC-8 Autocannon Sentry,DURULU,Defensive Permit,Sentries,150s,6000 Requisition Slips,13
+A/M-12 Mortar Sentry,DURRD,Defensive Permit,Sentries,180s,7000 Requisition Slips,8
+A/MLS-4X Rocket Sentry,DURRL,Defensive Permit,Sentries,150s,7500 Requisition Slips,15
+A/ARC-3 Tesla Tower,DURULR,Defensive Permit,Sentries,120s,8000 Requisition Slips,15
+A/M-23 EMS Mortar Sentry,DURDR,Defensive Permit,Sentries,180s,8000 Requisition Slips,20
+A/LAS-98 Laser Sentry,DURDUR,Defensive Permit,Sentries,150s,85 Medals,N/A
+A/FLAM-40 Flame Sentry,DURDUU,Defensive Permit,Sentries,100s,85 Medals,N/A
+A/GM-17 Gas Mortar Sentry,DURDL,Defensive Permit,Sentries,180s,85 Medals,N/A
+MD-6 Anti-Personnel Minefield,DLUR,Defensive Permit,Emplacements,120s,1500 Requisition Slips,1
+MD-I4 Incendiary Mines,DLLD,Defensive Permit,Emplacements,120s,4000 Requisition Slips,8
+MD-17 Anti-Tank Mines,DLUU,Defensive Permit,Emplacements,120s,7000 Requisition Slips,15
+FX-12 Shield Generator Relay,DDLRLR,Defensive Permit,Emplacements,90s,9000 Requisition Slips,10
+E/MG-101 HMG Emplacement,DULRRL,Defensive Permit,Emplacements,180s,10000 Requisition Slips,10
+E/GL-21 Grenadier Battlement,DRDLR,Defensive Permit,Emplacements,120s,10000 Requisition Slips,15
+MD-8 Gas Mines,DLLR,Defensive Permit,Emplacements,120s,12000 Requisition Slips,20
+E/AT-12 Anti-Tank Emplacement,DULRRR,Defensive Permit,Emplacements,180s,110 Medals,N/A
+Call In Super Destroyer,UUDDLRLR,Other,Mission Stratagems,N/A,,
+Eagle Rearm,UULUR,Other,Mission Stratagems,0s,,
+Reinforce,UDRLU,Other,Mission Stratagems,0s,,
+Resupply,DDUR,Other,Mission Stratagems,180s,,
+SoS Beacon,UDRU,Other,Mission Stratagems,0s,,
+SEAF Artillery,RUUD,Other,Mission Stratagems,14s,,
+NUX-223 Hellbomb,DULDURDU,Other,Mission Stratagems,30s,,
+Super Earth Flag,DUDU,Other,Mission Stratagems,N/A,,
+Upload Data,LRUUU,Other,Mission Stratagems,N/A,,
+Tectonic Drill,UDUDUD,Other,Mission Stratagems,0s,,
+Tactical Video Camera,RDDULLU,Other,Mission Stratagems,N/A,,
+SSSD Delivery (DDDDDUU),DDDDDUU,Other,Mission Stratagems,8s,,
+SSSD Delivery (DDDUU),DDDUU,Other,Mission Stratagems,8s,,
+Seismic Probe,UULRDD,Other,Mission Stratagems,27.5,,
+Cargo Container,UUDDRD,Other,Mission Stratagems,0s,,
+Reinforcement Pods,LRUUU,Other,Mission Stratagems,N/A,,
+Prospecting Drill,DDLRDD,Other,Mission Stratagems,0s,,
+Portable Comms Relay,UUDDLLD,Other,Mission Stratagems,N/A,,
+Hive Breaker Drill,LUDRDD,Other,Mission Stratagems,119s,,
+Dark Fluid Vessel,ULRDUU,Other,Mission Stratagems,30s,,
+Aquifer Drill,LLLUDRDD,Other,Mission Stratagems,0s,,
+Activate E-711 Extraction Drill,DDLLDD,Other,Mission Stratagems,0s,,
+Orbital Illumination Flare,RRLL,Other,Mission Stratagems,N/A,,

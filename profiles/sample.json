@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "settings": {
+    "menuKey": "LCtrl",
+    "menuMode": "hold",
+    "keyDelayMs": 30,
+    "chainTimeoutMs": 1000,
+    "passThrough": true,
+    "gameExe": "helldivers2.exe",
+    "arrowKeys": {
+      "U": "Up",
+      "D": "Down",
+      "L": "Left",
+      "R": "Right"
+    }
+  },
+  "bindings": [
+    {
+      "trigger": [
+        "l"
+      ],
+      "stratagem": "AX/ARC-3 K-9"
+    },
+    {
+      "trigger": [
+        "o"
+      ],
+      "stratagem": "ARC-3 Arc Thrower"
+    },
+    {
+      "trigger": [
+        "i"
+      ],
+      "stratagem": "A/MG-43 Machine Gun Sentry"
+    },
+    {
+      "trigger": [
+        "k"
+      ],
+      "stratagem": "A/MLS-4X Rocket Sentry"
+    },
+    {
+      "trigger": [
+        "y",
+        "u",
+        "j"
+      ],
+      "stratagem": "Orbital 380mm HE Barrage"
+    }
+  ]
+}

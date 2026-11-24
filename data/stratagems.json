@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "Orbital Confetti",
+    "code": "RDDUUDDUU",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "80s",
+    "cost": "N/A",
+    "unlock": "N/A"
+  },
+  {
+    "name": "Orbital Precision Strike",
+    "code": "RRU",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "80s",
+    "cost": "Free",
+    "unlock": "1"
+  },
+  {
+    "name": "Orbital Gatling Barrage",
+    "code": "RDLUU",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "70s",
+    "cost": "1500 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "Orbital Gas Strike",
+    "code": "RRDR",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "75s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "Orbital 120mm HE Barrage",
+    "code": "RRDLRD",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "180s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "5"
+  },
+  {
+    "name": "Orbital Airburst Strike",
+    "code": "RRR",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "90s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "5"
+  },
+  {
+    "name": "Orbital Smoke Strike",
+    "code": "RRDU",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "75s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "8"
+  },
+  {
+    "name": "Orbital EMS Strike",
+    "code": "RRLD",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "75s",
+    "cost": "6000 Requisition Slips",
+    "unlock": "5"
+  },
+  {
+    "name": "Orbital 380mm HE Barrage",
+    "code": "RDUULDD",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "240s",
+    "cost": "7500 Requisition Slips",
+    "unlock": "8"
+  },
+  {
+    "name": "Orbital Walking Barrage",
+    "code": "RDRDRD",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "240s",
+    "cost": "7500 Requisition Slips",
+    "unlock": "10"
+  },
+  {
+    "name": "Orbital Laser",
+    "code": "RDURD",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "300s",
+    "cost": "10000 Requisition Slips",
+    "unlock": "15"
+  },
+  {
+    "name": "Orbital Napalm Barrage",
+    "code": "RRDLRU",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "240s",
+    "cost": "10000 Requisition Slips",
+    "unlock": "18"
+  },
+  {
+    "name": "Orbital Railcannon Strike",
+    "code": "RUDDR",
+    "permit": "Offensive Permit",
+    "category": "Orbital Strikes",
+    "cooldown": "180s",
+    "cost": "10000 Requisition Slips",
+    "unlock": "20"
+  },
+  {
+    "name": "Eagle Fly By",
+    "code": "UDDUUDDUU",
+    "permit": "Offensive Permit",
+    "category": "Eagle Strikes",
+    "cooldown": "Unknown",
+    "cost": "N/A",
+    "unlock": "N/A"
+  },
+  {
+    "name": "Eagle Gas Airstrike",
+    "code": "URLR",
+    "permit": "Offensive Permit",
+    "category": "Eagle Strikes",
+    "cooldown": "15s",
+    "cost": "N/A",
+    "unlock": "N/A"
+  },
+  {
+    "name": "Eagle Strafing Run",
+    "code": "URR",
+    "permit": "Offensive Permit",
+    "category": "Eagle Strikes",
+    "cooldown": "15s",
+    "cost": "1500 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "Eagle Airstrike",
+    "code": "URDR",
+    "permit": "Offensive Permit",
+    "category": "Eagle Strikes",
+    "cooldown": "15s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "Eagle Cluster Bomb",
+    "code": "URDDR",
+    "permit": "Offensive Permit",
+    "category": "Eagle Strikes",
+    "cooldown": "15s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "3"
+  },
+  {
+    "name": "Eagle Smoke Strike",
+    "code": "URUD",
+    "permit": "Offensive Permit",
+    "category": "Eagle Strikes",
+    "cooldown": "15s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "8"
+  },
+  {
+    "name": "Eagle Napalm Airstrike",
+    "code": "URDU",
+    "permit": "Offensive Permit",
+    "category": "Eagle Strikes",
+    "cooldown": "15s",
+    "cost": "5000 Requisition Slips",
+    "unlock": "5"
+  },
+  {
+    "name": "Eagle 110mm Rocket Pods",
+    "code": "URUL",
+    "permit": "Offensive Permit",
+    "category": "Eagle Strikes",
+    "cooldown": "15s",
+    "cost": "7500 Requisition Slips",
+    "unlock": "10"
+  },
+  {
+    "name": "Eagle 500kg Bomb",
+    "code": "URDDD",
+    "permit": "Offensive Permit",
+    "category": "Eagle Strikes",
+    "cooldown": "15s",
+    "cost": "10000 Requisition Slips",
+    "unlock": "15"
+  },
+  {
+    "name": "MG-43 Machine Gun",
+    "code": "DLDUR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "Free",
+    "unlock": "1"
+  },
+  {
+    "name": "EAT-17 Expendable Anti-Tank",
+    "code": "DDLUR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "70s",
+    "cost": "3000 Requisition Slips",
+    "unlock": "3"
+  },
+  {
+    "name": "M-105 Stalwart",
+    "code": "DLDUUL",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "3500 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "LAS-98 Laser Cannon",
+    "code": "DLDUL",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "5"
+  },
+  {
+    "name": "APW-1 Anti-Materiel Rifle",
+    "code": "DLRUD",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "5000 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "GR-8 Recoilless Rifle",
+    "code": "DLRRL",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "6000 Requisition Slips",
+    "unlock": "5"
+  },
+  {
+    "name": "GL-21 Grenade Launcher",
+    "code": "DLULD",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "6000 Requisition Slips",
+    "unlock": "5"
+  },
+  {
+    "name": "FLAM-40 Flamethrower",
+    "code": "DLUDU",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "6000 Requisition Slips",
+    "unlock": "10"
+  },
+  {
+    "name": "MG-206 Heavy Machine Gun",
+    "code": "DLUDD",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "6000 Requisition Slips",
+    "unlock": "12"
+  },
+  {
+    "name": "AC-8 Autocannon",
+    "code": "DLDUUR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "7000 Requisition Slips",
+    "unlock": "10"
+  },
+  {
+    "name": "ARC-3 Arc Thrower",
+    "code": "DRDULL",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "7000 Requisition Slips",
+    "unlock": "15"
+  },
+  {
+    "name": "LAS-99 Quasar Cannon",
+    "code": "DDULR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "7500 Requisition Slips",
+    "unlock": "18"
+  },
+  {
+    "name": "RL-77 Airburst Rocket Launcher",
+    "code": "DUULR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "8000 Requisition Slips",
+    "unlock": "15"
+  },
+  {
+    "name": "MLS-4X Commando",
+    "code": "DLUDR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "120s",
+    "cost": "8000 Requisition Slips",
+    "unlock": "15"
+  },
+  {
+    "name": "FAF-14 Spear",
+    "code": "DDUDD",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "9000 Requisition Slips",
+    "unlock": "20"
+  },
+  {
+    "name": "RS-422 Railgun",
+    "code": "DRDULR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "10000 Requisition Slips",
+    "unlock": "20"
+  },
+  {
+    "name": "StA-X3 W.A.S.P. Launcher",
+    "code": "DDUDR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "12000 Requisition Slips",
+    "unlock": "20"
+  },
+  {
+    "name": "AMW-20 Apex",
+    "code": "DLLUDL",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "50 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "CQC-20 Breaching Hammer",
+    "code": "DLRLU",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "75 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "MGX-42 Bullet Storm",
+    "code": "DLDRUL",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "70s",
+    "cost": "75 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "PLAS-45 Epoch",
+    "code": "DLULR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "75 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "S-11 Speargun",
+    "code": "DRDLUR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "85 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "EAT-411 Leveller",
+    "code": "DDLUD",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "140s",
+    "cost": "85 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "EAT-700 Expendable Napalm",
+    "code": "DDLUL",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "140s",
+    "cost": "85 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "CQC-9 Defoliation Tool",
+    "code": "DLRRD",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "85 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "GL-52 De-Escalator",
+    "code": "DRULR",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "85 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "TX-41 Sterilizer",
+    "code": "DLUDL",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "85 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "B/MD C4 Pack",
+    "code": "DRUURU",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "MS-11 Solo Silo",
+    "code": "DURDD",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "180s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "B/FLAM-80 Cremator",
+    "code": "DDRDUU",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "CQC-1 One True Flag",
+    "code": "DLRRU",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "GL-28 Belt-Fed Grenade Launcher",
+    "code": "DLULUU",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "M-1000 Maxigun",
+    "code": "DLRDUU",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "LAS-44 Nova",
+    "code": "DLRDD",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "40-K Meltagun",
+    "code": "DLULLD",
+    "permit": "Supply Permit",
+    "category": "Support Weapons",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "B-1 Supply Pack",
+    "code": "DLDUUD",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "LIFT-850 Jump Pack",
+    "code": "DUUDU",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "6000 Requisition Slips",
+    "unlock": "8"
+  },
+  {
+    "name": "SH-20 Ballistic Shield Backpack",
+    "code": "DLDDUL",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "240s",
+    "cost": "6000 Requisition Slips",
+    "unlock": "12"
+  },
+  {
+    "name": "AX/AR-23 Guard Dog",
+    "code": "DULURD",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "7500 Requisition Slips",
+    "unlock": "10"
+  },
+  {
+    "name": "AX/LAS-5 Rover",
+    "code": "DULURR",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "7500 Requisition Slips",
+    "unlock": "10"
+  },
+  {
+    "name": "SH-32 Shield Generator Pack",
+    "code": "DULRLR",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "10000 Requisition Slips",
+    "unlock": "20"
+  },
+  {
+    "name": "SH-51 Directional Shield",
+    "code": "DULRUU",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "300s",
+    "cost": "75 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "AX/FLAM-75 Hot Dog",
+    "code": "DULULL",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "75 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "B-100 Portable Hellbomb",
+    "code": "DRUUU",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "300s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "AX/ARC-3 K-9",
+    "code": "DULURL",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "LIFT-860 Hover Pack",
+    "code": "DUUDLR",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "AX/TX-13 Dog Breath",
+    "code": "DULURU",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "LIFT-182 Warp Pack",
+    "code": "DLRDLR",
+    "permit": "Supply Permit",
+    "category": "Backpacks",
+    "cooldown": "480s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "M-104 Incinerator FRV",
+    "code": "LDRLDUU",
+    "permit": "Supply Permit",
+    "category": "Vehicles",
+    "cooldown": "480s",
+    "cost": "N/A",
+    "unlock": "N/A"
+  },
+  {
+    "name": "TD-110 Maelstrom",
+    "code": "LDRDLDULR",
+    "permit": "Supply Permit",
+    "category": "Vehicles",
+    "cooldown": "780s",
+    "cost": "N/A",
+    "unlock": "N/A"
+  },
+  {
+    "name": "EXO-49 Emancipator Exosuit",
+    "code": "LDRULDU",
+    "permit": "Supply Permit",
+    "category": "Vehicles",
+    "cooldown": "420s",
+    "cost": "20000 Requisition Slips",
+    "unlock": "25"
+  },
+  {
+    "name": "EXO-45 Patriot Exosuit",
+    "code": "LDRULDD",
+    "permit": "Supply Permit",
+    "category": "Vehicles",
+    "cooldown": "420s",
+    "cost": "20000 Requisition Slips",
+    "unlock": "25"
+  },
+  {
+    "name": "M-103 Supply FRV",
+    "code": "LDLLDUR",
+    "permit": "Supply Permit",
+    "category": "Vehicles",
+    "cooldown": "480s",
+    "cost": "25000 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "M-102 Gunner FRV",
+    "code": "LDRDRDU",
+    "permit": "Supply Permit",
+    "category": "Vehicles",
+    "cooldown": "480s",
+    "cost": "25000 Requisition Slips",
+    "unlock": "25"
+  },
+  {
+    "name": "TD-220 Bastion MK XVI",
+    "code": "LDRDLDUDU",
+    "permit": "Supply Permit",
+    "category": "Vehicles",
+    "cooldown": "780s",
+    "cost": "35000 Requisition Slips",
+    "unlock": "30"
+  },
+  {
+    "name": "EXO-55 Breakthrough Exosuit",
+    "code": "LDRLRDU",
+    "permit": "Supply Permit",
+    "category": "Vehicles",
+    "cooldown": "420s",
+    "cost": "50 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "EXO-51 Lumberer Exosuit",
+    "code": "LDRURLU",
+    "permit": "Supply Permit",
+    "category": "Vehicles",
+    "cooldown": "420s",
+    "cost": "50 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "A/MG-43 Machine Gun Sentry",
+    "code": "DURRU",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "90s",
+    "cost": "1500 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "A/G-16 Gatling Sentry",
+    "code": "DURL",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "150s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "5"
+  },
+  {
+    "name": "A/AC-8 Autocannon Sentry",
+    "code": "DURULU",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "150s",
+    "cost": "6000 Requisition Slips",
+    "unlock": "13"
+  },
+  {
+    "name": "A/M-12 Mortar Sentry",
+    "code": "DURRD",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "180s",
+    "cost": "7000 Requisition Slips",
+    "unlock": "8"
+  },
+  {
+    "name": "A/MLS-4X Rocket Sentry",
+    "code": "DURRL",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "150s",
+    "cost": "7500 Requisition Slips",
+    "unlock": "15"
+  },
+  {
+    "name": "A/ARC-3 Tesla Tower",
+    "code": "DURULR",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "120s",
+    "cost": "8000 Requisition Slips",
+    "unlock": "15"
+  },
+  {
+    "name": "A/M-23 EMS Mortar Sentry",
+    "code": "DURDR",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "180s",
+    "cost": "8000 Requisition Slips",
+    "unlock": "20"
+  },
+  {
+    "name": "A/LAS-98 Laser Sentry",
+    "code": "DURDUR",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "150s",
+    "cost": "85 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "A/FLAM-40 Flame Sentry",
+    "code": "DURDUU",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "100s",
+    "cost": "85 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "A/GM-17 Gas Mortar Sentry",
+    "code": "DURDL",
+    "permit": "Defensive Permit",
+    "category": "Sentries",
+    "cooldown": "180s",
+    "cost": "85 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "MD-6 Anti-Personnel Minefield",
+    "code": "DLUR",
+    "permit": "Defensive Permit",
+    "category": "Emplacements",
+    "cooldown": "120s",
+    "cost": "1500 Requisition Slips",
+    "unlock": "1"
+  },
+  {
+    "name": "MD-I4 Incendiary Mines",
+    "code": "DLLD",
+    "permit": "Defensive Permit",
+    "category": "Emplacements",
+    "cooldown": "120s",
+    "cost": "4000 Requisition Slips",
+    "unlock": "8"
+  },
+  {
+    "name": "MD-17 Anti-Tank Mines",
+    "code": "DLUU",
+    "permit": "Defensive Permit",
+    "category": "Emplacements",
+    "cooldown": "120s",
+    "cost": "7000 Requisition Slips",
+    "unlock": "15"
+  },
+  {
+    "name": "FX-12 Shield Generator Relay",
+    "code": "DDLRLR",
+    "permit": "Defensive Permit",
+    "category": "Emplacements",
+    "cooldown": "90s",
+    "cost": "9000 Requisition Slips",
+    "unlock": "10"
+  },
+  {
+    "name": "E/MG-101 HMG Emplacement",
+    "code": "DULRRL",
+    "permit": "Defensive Permit",
+    "category": "Emplacements",
+    "cooldown": "180s",
+    "cost": "10000 Requisition Slips",
+    "unlock": "10"
+  },
+  {
+    "name": "E/GL-21 Grenadier Battlement",
+    "code": "DRDLR",
+    "permit": "Defensive Permit",
+    "category": "Emplacements",
+    "cooldown": "120s",
+    "cost": "10000 Requisition Slips",
+    "unlock": "15"
+  },
+  {
+    "name": "MD-8 Gas Mines",
+    "code": "DLLR",
+    "permit": "Defensive Permit",
+    "category": "Emplacements",
+    "cooldown": "120s",
+    "cost": "12000 Requisition Slips",
+    "unlock": "20"
+  },
+  {
+    "name": "E/AT-12 Anti-Tank Emplacement",
+    "code": "DULRRR",
+    "permit": "Defensive Permit",
+    "category": "Emplacements",
+    "cooldown": "180s",
+    "cost": "110 Medals",
+    "unlock": "N/A"
+  },
+  {
+    "name": "Call In Super Destroyer",
+    "code": "UUDDLRLR",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "N/A",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Eagle Rearm",
+    "code": "UULUR",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "0s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Reinforce",
+    "code": "UDRLU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "0s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Resupply",
+    "code": "DDUR",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "180s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "SoS Beacon",
+    "code": "UDRU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "0s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "SEAF Artillery",
+    "code": "RUUD",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "14s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "NUX-223 Hellbomb",
+    "code": "DULDURDU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "30s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Super Earth Flag",
+    "code": "DUDU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "N/A",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Upload Data",
+    "code": "LRUUU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "N/A",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Tectonic Drill",
+    "code": "UDUDUD",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "0s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Tactical Video Camera",
+    "code": "RDDULLU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "N/A",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "SSSD Delivery (DDDDDUU)",
+    "code": "DDDDDUU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "8s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "SSSD Delivery (DDDUU)",
+    "code": "DDDUU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "8s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Seismic Probe",
+    "code": "UULRDD",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "27.5",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Cargo Container",
+    "code": "UUDDRD",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "0s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Reinforcement Pods",
+    "code": "LRUUU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "N/A",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Prospecting Drill",
+    "code": "DDLRDD",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "0s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Portable Comms Relay",
+    "code": "UUDDLLD",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "N/A",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Hive Breaker Drill",
+    "code": "LUDRDD",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "119s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Dark Fluid Vessel",
+    "code": "ULRDUU",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "30s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Aquifer Drill",
+    "code": "LLLUDRDD",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "0s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Activate E-711 Extraction Drill",
+    "code": "DDLLDD",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "0s",
+    "cost": "",
+    "unlock": ""
+  },
+  {
+    "name": "Orbital Illumination Flare",
+    "code": "RRLL",
+    "permit": "Other",
+    "category": "Mission Stratagems",
+    "cooldown": "N/A",
+    "cost": "",
+    "unlock": ""
+  }
+]

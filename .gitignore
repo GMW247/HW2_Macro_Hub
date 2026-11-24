@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.build-venv/
+
+# Build output (publish the exe as a GitHub Release, not in git)
+build/
+dist/
+release/
+*.spec
+
+# Generated macro scripts
+macros.ahk
+*.ahk
+
+# Local shortcuts and notes
+*.lnk
+WORKLOG.md
